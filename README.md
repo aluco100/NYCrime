@@ -10,8 +10,8 @@ TreeMap Style:
 
 
 #Usage
-1.- Install apache and mysql\n
-2.- Create database call 'mydb'\n
-3.- Run mydb.sql file\n
-4.- Run apache on localhost\n
+1.- Install apache and mysql__
+2.- Create database call 'mydb'__
+3.- Run mydb.sql file__
+4.- Run apache on localhost__
 5.- Open localhost/nameOfYourProject/index.php
